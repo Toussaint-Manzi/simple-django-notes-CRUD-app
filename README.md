@@ -31,8 +31,8 @@ A robust RESTful API for managing notes built with Django REST Framework and Pos
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/notes-api.git
-cd notes_api
+git clone https://github.com/Toussaint-Manzi/simple-django-notes-CRUD-app.git
+cd simple-django-notes-CRUD-app
 ```
 
 2. Create and activate virtual environment:
